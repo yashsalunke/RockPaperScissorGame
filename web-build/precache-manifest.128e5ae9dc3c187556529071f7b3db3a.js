@@ -44,15 +44,15 @@ self.__precacheManifest = [
     "url": "/static/js/2.d7bb5818.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "afd5733ac789ab1795f1ed7a26e1ecd3",
+    "revision": "6e6d657f2270b58d4529a3f9e694b769",
     "url": "/favicon-16.png"
   },
   {
-    "revision": "3d85359b37ca7590f8e91d593d02ddaf",
+    "revision": "9b04a09f7e79ad20a8eb538f7a8c7887",
     "url": "/favicon-32.png"
   },
   {
-    "revision": "5e52768b0f7cbb62cbe07751add33101",
+    "revision": "33807fa514457d0780628a7375e8332b",
     "url": "/favicon.ico"
   },
   {
